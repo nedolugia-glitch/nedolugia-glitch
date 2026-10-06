@@ -78,4 +78,5 @@
 
 ---
 ## Связаться
-- 
+- https://t.me/@eva_cynth
+- https://vk.ru/nedolugaya
