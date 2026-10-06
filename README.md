@@ -25,7 +25,7 @@
 - использование DevTools (Elements, Network, Console) для диагностики проблем на фронтенде
 - проверка отображения интерфейса в разных браузерах и на разных разрешениях
 
-## Проекты
+## Проекты, выполненные в период моего обучения 
 
 ### Проект 1. Тестирование сервиса Mesto - социальная сеть (Веб приложение).
 - https://docs.google.com/spreadsheets/d/1AKHlJFDRGXv9dGH_EEQ-ITX0FIzg1eIMCThmOjKEIuo/edit?usp=sharing 
